@@ -18,7 +18,7 @@ case 'A':
     crta();
     nula();
     break;
-
+```
 
 Funkcija pika() prižge LED lučko za 1 sekundo, crta() pa za 3 sekunde. Funkcija nula() se uporablja za ustvarjanje presledka med znaki in je dolg 5 sekund.
 
@@ -110,7 +110,7 @@ int main(void) {
         }
     }
 }
-
+```
 
 ## Rezultati
 
@@ -119,7 +119,7 @@ Po izvajanju programa se LED lučka na STM32 mikrokrmilniku vključuje in izklju
 ```lua
 Beseda: "HELLO"
 Morsejeva Koda: .... . .-.. .-.. ---
-
+```
 
 
 ## Izzivi in Izkušnje
